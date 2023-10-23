@@ -1,2 +1,2 @@
 # javaLearning
-Guia de como poco a poco fui aprendiendo el lenguaje de programación de Java
+Guia de como paso a paso fui aprendiendo el lenguaje de programación de Java
